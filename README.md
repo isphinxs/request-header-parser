@@ -1,6 +1,6 @@
 # Request Header Parser Microservice (FCC)
 
-This project is a request header parser microservice API for the Free Code Camp Curriculum.  It returns the IP address, language, and operating system for the user's browser.
+This project is a request header parser microservice for the Free Code Camp Curriculum.  It returns the IP address, language, and operating system for the user's browser.
 
 ## Sample Input
 
