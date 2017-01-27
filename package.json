@@ -1,0 +1,15 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "Request Header Parser for FreeCodeCamp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isphinxs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
